@@ -1,0 +1,29 @@
+Judul : Login
+Link   : https://account.kompas.com/login/a29tcGFz/aHR0cHM6Ly93d3cua29tcGFzLmNvbS90YWcvaW5ldA==
+
+Judul : Gabung KOMPAS.com+
+Link   : https://plus.kompas.com/group/kompas-max?source=profile
+
+Judul : Konten yang disimpan
+Link   : https://activity.kompas.com/saved
+
+Judul : Konten yang disukai
+Link   : https://activity.kompas.com/liked
+
+Judul : Atur Minat
+Link   : https://activity.kompas.com/minat
+
+Judul : Berikan Masukanmu
+Link   : https://www.kompas.com/feedback
+
+Judul : Langganan Kompas One
+Link   : https://plus.kompas.com/group/kompas-one?source=top_navbar
+
+Judul : News
+Link   : https://news.kompas.com?source=navbar
+
+Judul : Nasional
+Link   : https://nasional.kompas.com
+
+Judul : Global
+Link   : https://www.kompas.com/global
